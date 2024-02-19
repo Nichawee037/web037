@@ -7,7 +7,7 @@
 }
    /*-------------------- Staheader -----------------------*/
 header{
-     background-color: #5E3D79
+     background-color: #E0B6EB
      ;
 }
 nav{
@@ -47,7 +47,7 @@ a{
 }
 .hero-text-box{
    /* margin: auto; */
-   color: #ffffff;
+   color: #000000;
     
 }
 .hero-button{
@@ -70,4 +70,86 @@ a{
 }
 .hero-img{
 
+}
+.pricingmain{
+    /* border-radius: 10px; */
+    /* margin: auto; */
+    text-align: center;
+    /* width: 50px; */
+    height: 600px;
+} 
+.PRICING{
+    padding: 20px;
+    text-align: center;
+    align-items: center;  
+}
+.Secion-box{
+    color: #000000;
+    margin: auto;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 1100px; 
+    display: flex;
+    
+}
+.plan{
+    border-radius: 5px;
+    background-color: white;
+    width: 320px;
+    height: 400px;
+    box-shadow: 0 10px 10px #00000080;
+}
+.boxs{
+    align-items: center;
+    margin: 40PX;
+    text-align: left;
+    color: #4B0D55;
+    line-height: 50px;
+}
+.money{
+    margin: 20PX;
+    text-align: left;
+    color: #000000;
+    font-size: 16px;
+    line-height: 15px;
+}
+.freeplan{
+    text-align: left;  
+    margin: 20px; 
+    line-height: 1px; 
+    font-size: 14px;
+}
+
+.setion-box-plan{
+    /* display:flex; */
+    /* align-items: center; */
+    box-shadow: 0 3px 20px #b7ce9f;
+    width: 320px;
+    height: 400px;
+    /* justify-content: space-between; */
+    align-items: center;
+    line-height: 50px;
+    border-radius: 5px;
+}
+.plan{
+  /* display:flex; */
+    /* align-items: center; */
+    box-shadow: 0 3px 20px #b7ce9f;
+    width: 320px;
+    height: 400px;
+    /* justify-content: space-between; */
+    align-items: center;
+    line-height: 50px;
+    border-radius: 5px;
+}  
+.box{
+  /* display:flex; */
+    /* align-items: center; */
+    box-shadow: 0 3px 20px #b7ce9f;
+    width: 320px;
+    height: 400px;
+    /* justify-content: space-between; */
+    align-items: center;
+    line-height: 50px;
+    border-radius: 5px;
 }
